@@ -1,0 +1,52 @@
+/*Header Styles*/
+
+.navbar-brand {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+#collapsable-nav li a {
+    text-align: center;
+    font-size: 1em;
+}
+
+
+
+/*Section - Main Content Styles*/
+
+.chicken {
+    background-color: #2e2e2e;
+    color: white;
+    font-size: 1.3em;
+    font-family: 'Source Sans Pro', sans-serif;
+
+
+}
+
+.main-content {
+    margin-bottom: 30px;
+}
+
+.main-content h1 {
+   font-family: 'Source Sans Pro', sans-serif;
+   font-family: 'Baloo Tamma', cursive;
+   font-family: 'Montserrat', sans-serif;
+   margin-bottom: 19px;
+   margin-top: 0;
+   
+}
+
+
+/*Media Queries*/
+
+@media (max-width: 767px) {
+    .chicken {
+        text-align: center;
+    }
+    
+  
+        
+     
+    
+}
